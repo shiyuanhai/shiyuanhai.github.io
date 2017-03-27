@@ -12,4 +12,4 @@ date: 2016-06-24 23:45:24.000000000 +09:00
 
 #### Todo (Mean, Heroku, mLab)
 
-[Link](https://dashboard.heroku.com/apps/dry-coast-44639)
+[Link](https://dry-coast-44639.herokuapp.com/)
