@@ -1,4 +1,4 @@
-# [Yuanhai's Blog](www.nulljs.com)
+# [Yuanhai's Blog](http://www.nulljs.com)
 
 Keep going forward
 
