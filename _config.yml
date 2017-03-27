@@ -1,0 +1,50 @@
+# Basic
+title: Yuanhai Shi
+subtitle: Learn and Share
+welcome_message: 只有经历地狱般的折磨才有攀登天堂的力量。
+description: A web developer from New Jersey, US.
+creator: <a href="http://www.nulljs.com">@shiyuanhai</a>
+
+url: "https://shiyuanhai.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: plain
+markdown: krandown
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: slate
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+     - {title: Projects, description: My Projects, url: 'https://shiyuanhai.github.io/2016/06/projects/'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: shiyuanhai
+    # duoshuo:
+
+# Social
+social:
+    github: shiyuanhai
+    twitter: shiyuanhai
+    mail: shiyuanhai@gmail.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
